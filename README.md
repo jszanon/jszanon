@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jszanon
 - 👀 I’m interested in a front-end dev carrier 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript
+- 📫 Contact: jsanzonizanon09@gmail.com
 
 
 <!---
