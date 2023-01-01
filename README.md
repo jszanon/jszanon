@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jszanon
-- 👀 I’m interested in a Python dev carrier 
+- 👀 I’m interested in a COBOL dev carrier 
 - 🌱 I’m currently learning COBOL 
 - 📫 Contact: jsanzonizanon09@gmail.com
 
