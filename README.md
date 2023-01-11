@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jszanon
-- 👀 I’m interested in a COBOL dev carrier 
+- 👀 I’m interested in a dev carrier 
 - 🌱 I’m currently learning COBOL and DB2
 - 📫 Contact: jsanzonizanon09@gmail.com
 
