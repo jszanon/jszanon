@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jszanon
 - 👀 I’m interested in a dev carrier 
-- 🌱 I’m currently learning COBOL and DB2
+- 🌱 I’m currently learning COBOL, DB2 and C# .Net
 - 📫 Contact: jsanzonizanon09@gmail.com
 
 
